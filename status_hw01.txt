@@ -16,11 +16,12 @@ abadij.com
 
 
 4. What's the URL of your Github repository for this assignment?
-https://github.com/Johnny018/cs4550.git
+https://github.com/Johnny018/hw01-cs4550.git
 
 
 5. Which parts of this assignment did you have trouble with, if any?
 Pointing my domain to my VPS
+pushing files to Github
 
 
 And here's a list of tasks for grading comments. Just leave this here:
