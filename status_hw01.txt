@@ -13,6 +13,7 @@ Domain = joker
 3. What domain name did you register?
 abadij.com
 
+(www.abadij.com & hw01.abadij.com)
 
 
 4. What's the URL of your Github repository for this assignment?
